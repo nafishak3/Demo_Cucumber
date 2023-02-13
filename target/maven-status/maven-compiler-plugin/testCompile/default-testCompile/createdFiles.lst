@@ -1,0 +1,3 @@
+StepDefinitions\UbarBookSteps.class
+TestRunners\TestRunnerSearch.class
+StepDefinitions\StepDefinitions_Search.class
